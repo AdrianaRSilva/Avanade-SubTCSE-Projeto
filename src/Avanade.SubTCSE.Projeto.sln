@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31313.79
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Avanade.SubTCSE.projeto.api", "Avanade.SubTCSE.projeto.api\Avanade.SubTCSE.projeto.api.csproj", "{CD28650A-0F2F-467A-A047-8A655D295BCD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Avanade.SubTCSE.Projeto.Api", "Avanade.SubTCSE.Projeto.Api\Avanade.SubTCSE.Projeto.Api.csproj", "{59057ADB-083D-4CA2-BEEB-EC1317658638}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{CD28650A-0F2F-467A-A047-8A655D295BCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CD28650A-0F2F-467A-A047-8A655D295BCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CD28650A-0F2F-467A-A047-8A655D295BCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CD28650A-0F2F-467A-A047-8A655D295BCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59057ADB-083D-4CA2-BEEB-EC1317658638}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59057ADB-083D-4CA2-BEEB-EC1317658638}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59057ADB-083D-4CA2-BEEB-EC1317658638}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59057ADB-083D-4CA2-BEEB-EC1317658638}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {481C8285-6E0F-456A-AD51-AA32E36B9AF4}
+		SolutionGuid = {95BA3C55-FBCA-48F8-AB67-FC1192A77483}
 	EndGlobalSection
 EndGlobal
