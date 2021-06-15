@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Aggregate\Interface\services\" />
+    <Folder Include="Aggregate\Interface\Repository\" />
+    <Folder Include="Aggregate\Validators\" />
+    <Folder Include="Aggregate\Services\" />
+  </ItemGroup>
+
+</Project>
