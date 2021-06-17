@@ -6,9 +6,7 @@
 
   <ItemGroup>
     <Folder Include="Agreegates\EmployeeRole\Interfaces\Repository\" />
-    <Folder Include="Agreegates\EmployeeRole\Interfaces\Services\" />
     <Folder Include="Agreegates\EmployeeRole\Validatiors\" />
-    <Folder Include="Agreegates\EmployeeRole\Services\" />
   </ItemGroup>
 
 </Project>
